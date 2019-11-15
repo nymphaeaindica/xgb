@@ -1,7 +1,7 @@
 # xgb
 Implementation of xgboost algorithm.
 
-Consists of 2 modules: main.py and calc.py
+Consists of 2 modules: main.py and pars.py
 
 The tool performs model training, parameter's grid search, cross-validation and testing.
 
